@@ -17,6 +17,7 @@ public class MyFancyJavaProject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Creted A Java Project Without Singleton Pattern");
+        System.out.println("Bringing Slight changes in the code");
         
     }
     
